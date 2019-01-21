@@ -24,7 +24,8 @@
     "node": ">=0.10"
   },
   "dependencies": {
-    "useragent": "*"
+    "useragent": "*",
+    "yamlparser": "^0.0.2"
   },
   "devDependencies": {
     "mocha": "*"
@@ -36,8 +37,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/rguerreiro/device.git"
-  },
-  "peerDependencies": {
-    "yamlparser": "^0.0.2"
   }
 }
